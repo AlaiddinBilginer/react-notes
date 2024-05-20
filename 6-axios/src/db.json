@@ -1,0 +1,23 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "Edin Džeko",
+      "age": 38,
+      "image": "https://img.a.transfermarkt.technology/portrait/big/28396-1696447661.png?lm=1",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "name": "Mauro Icardi",
+      "age": 31,
+      "image": "https://img.a.transfermarkt.technology/portrait/big/68863-1671105169.png?lm=1"
+    },
+    {
+      "id": "fe74",
+      "name": "Arda Güler",
+      "age": 19,
+      "image": "https://img.a.transfermarkt.technology/portrait/big/861410-1699472585.jpg?lm=1"
+    }
+  ]
+}
