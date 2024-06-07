@@ -1,0 +1,23 @@
+header {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #83b4ff;
+}
+
+header a {
+  margin-right: 0.5rem;
+  padding: 0.75rem;
+  text-decoration: none;
+  font-size: 1.1rem;
+  background-color: #fdffe2;
+  color: #1a2130;
+  transition: 0.3s all ease-in-out;
+}
+
+header a:hover {
+  background-color: #1a2130;
+  color: #fdffe2;
+}
